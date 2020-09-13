@@ -1,4 +1,4 @@
-# technology used for this version of simpletracker.live
+# technology stack
 - html
 - javascript
 - css
